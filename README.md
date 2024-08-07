@@ -19,7 +19,7 @@ int main()
 ```
 # Nbrk.c
 
-In the OS Nova core ([http://hypervisor.org/]), I implemented the nbrk system call with a prototype:
+In the OS Nova core (http://hypervisor.org/), I implemented the nbrk system call with a prototype:
 
 void *nbrk(void *address)
 
